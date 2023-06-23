@@ -1,4 +1,5 @@
 # CG_Lab2
+![image.png](img/preview.png)
 # 1 项目目录
 
 - lib
